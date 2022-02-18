@@ -1,7 +1,7 @@
-# Desafios da Dio 2022
-Repósitorio criado para colocar projetos e desafios propostos pela Dio.
+# Meus Códigos em Python
+Repósitorio criado para colocar  meus códigos em python e mostrar para todos minha evolu.
 
-# Contatoss
+###Contatos: 
 [Facebook](https://www.facebook.com/alysson.gomes.7589)
 [Instagram](https://www.instagram.com/__alyssongomes/)
 [Twitter](https://twitter.com/alyssongomesofc)
